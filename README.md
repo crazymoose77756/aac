@@ -7,4 +7,4 @@ Depends on protocol lib to work
 
 # Commands
 
-see the wiki[https://github.com/crazymoose77756/aac/wiki/Commands]
+see the wiki
